@@ -41,10 +41,10 @@
 
 @keyframes feed {
     0% {
-        left: -100%;
+        left: -200vw;
     }
     100% {
-        left: 0%;
+        left: 200vw;
     }
 }
 
@@ -73,17 +73,20 @@
     display: flex;
     width: 200vw;
     height: 3vh;
-    animation: feed 30s linear infinite;
+    animation: feed 60s linear infinite;
 }
+
+.bar .feed .p {}
 
 .feed {
     width: 100vw;
     height: 3vh;
-    animation: feed 30s linear infinite;
 }
 
 .f2 {
-    animation-delay: 15s;
+    width: 100vw;
+    height: 3vh;
+    animation-delay: 30s;
 }
 
 .forecast {
