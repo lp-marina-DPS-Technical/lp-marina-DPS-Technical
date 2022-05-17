@@ -115,35 +115,36 @@
 }
 
 .dpslogo {
-    width: 200px;
+    width: 12vw;
     height: auto;
     position: absolute;
     right: 20px;
     bottom: 5vh;
-    filter: opacity(.3);
+    filter: opacity(.5);
 }
 
 .lgbox {
     position: absolute;
-    display: inline-block;
-    top: 78vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    top: 76vh;
     left: -5;
-    width: 260px;
-    height: 22vh;
+    width: 13vw;
+    height: 27vh;
     background-color: #f0f0f0;
     border: 5px ridge #afafaf;
     border-radius: 0px 20px 0px 0px;
 }
 
 .time {
-    position: absolute;
+    padding-top: 1vh;
     display: flex;
     align-content: center;
     justify-content: center;
     width: 240px;
     height: 80px;
-    bottom: -10;
-    left: 75px;
     background: rgba(0, 0, 0, 0)!important;
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
@@ -153,9 +154,7 @@
 }
 
 .lgbright {
-    position: absolute;
-    top: 20px;
-    left: 30px;
+    padding-top: 1vh;
     overflow: visible;
 }
 
@@ -187,7 +186,7 @@
 
 .openingcont {
     width: 70vw;
-    height: 55vh;
+    height: 70vh;
     overflow: visible;
     filter: drop-shadow( 0px 0px 6px black)
 }
