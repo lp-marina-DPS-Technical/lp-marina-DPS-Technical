@@ -3,7 +3,7 @@
 * {
     margin: 0;
     padding: 0;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 
 @keyframes marquee {
@@ -216,11 +216,6 @@
 .four {
     width: 100vw;
     background-image: linear-gradient(to right, #434343 0%, black 100%);
-}
-
-.five {
-    width: 100vw;
-    background-image: linear-gradient(to right, black 0%, #434343 100%);
 }
 
 .tidetable {}
