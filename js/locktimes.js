@@ -1,5 +1,6 @@
 const d = new Date();
-let month = d.getMonth();
+let month = d.getMonth() + 1;
+console.log("month = " month)
 
 if (month == 1) {
     document.getElementById('lock').innerHTML += '<iframe src="https://drive.google.com/file/d/1UHoOJ0M2aFq7F0-T_5XB3r5ZvGLLDXam/preview" frameborder="0" width="100%" height="100%" allow="autoplay"></iframe>';
