@@ -190,6 +190,7 @@ filter:drop-shadow(3px 2px 1px rgba(0,0,0,.6))
 }
 
 .viewport {
+will-change: transform;
 height:97vh;
 width:500vw;
 position:absolute;
