@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h3 align="center">A web-based marine weather dashboard for use on Android boxes in kiosk mode<br>www.lp-marina-DPS-Technical.github.io</h3>
+<h3 align="center">A web-based marine weather dashboard for use on Android boxes in kiosk mode<br>https://lp-marina-DPS-Technical.github.io</h3>
 
 <p align="center">
   <a href="#features">Features</a> •
