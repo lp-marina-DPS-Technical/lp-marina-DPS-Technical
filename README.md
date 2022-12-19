@@ -1,12 +1,12 @@
 <h1 align="center">Marine Weather Dashboard</h1>
 
 <p align="center">
-  <a href="https://your-project-url.com">
+  <a href="https://lp-marina-DPS-Technical.github.io">
     <img src="./img/Marina_Logo.png" alt="Logo" width="200" height="auto">
   </a>
 </p>
 
-<h3 align="center">A web-based marine weather dashboard for use on Android boxes in kiosk mode</h3>
+<h3 align="center">A web-based marine weather dashboard for use on Android boxes in kiosk mode<br>www.lp-marina-DPS-Technical.github.io</h3>
 
 <p align="center">
   <a href="#features">Features</a> •
