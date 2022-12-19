@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://your-project-url.com">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="./img/Marina_Logo.png" alt="Logo" width="80" height="80">
   </a>
 </p>
 
